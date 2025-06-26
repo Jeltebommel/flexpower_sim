@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+torch
+openpyxl
+tqdm
+seaborn
+python-dotenv
+jupyter
+xgboost           # for benchmarking tree models
+lightgbm          # faster alternative to xgboost
+entsoe-py         # if using ENTSO-E data via API
